@@ -1,2 +1,2 @@
-![Welcome message](./images/welcome.png)
-![Code editors and Programming Languages](./images/faq.png)
+![Welcome message](https://i.imgur.com/PfgXlnc.png)
+![Code editors and Programming Languages](https://i.imgur.com/OLptUR7.png)
